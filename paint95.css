@@ -1,0 +1,97 @@
+html {
+
+background-image: url('http://www.wallpapersonly.net/wallpapers/blue-ocean-frontier-1920x1200.jpg'); 
+}
+
+body {
+	line-height: 0;	
+}
+
+.contain{
+	border: solid black 1px;
+	background-color: white;
+	display: inline-block;
+
+}
+
+.commandLine{
+width: 100px;
+height: 300px;
+background-color: grey;
+float: left;
+margin-right: 25px;
+}
+
+
+.color{
+border:solid black 1px;
+width: 30px;
+height: 30px;
+margin: 15px;
+margin-left: 30px;
+background-size: contain;
+}
+
+.width {
+	margin:0px;
+	padding: 0px;
+	display: block;
+}
+
+
+.block {
+
+	width: 10px;
+	height: 10px;
+/*	background-color: yellow;*/
+/*	border:solid red 1px;*/
+	display: inline-block;
+}
+
+.button{
+margin-left: 5px;
+vertical-align: middle;
+
+}
+
+
+
+/* FROM HERE THIS PART BELONGS TO PAINT95JS - OLDER VERSION */
+/*
+.topic{
+
+	margin: 0px;
+	vertical-align: middle;
+}
+
+.box{
+
+	margin-left: 10px;
+
+}
+
+.submit{
+
+	margin-left: 10px;
+
+}
+
+.upperDiv {
+
+	padding: 5px;
+	background-color: grey;
+	height: 60px;
+	width: 480px;
+
+}
+
+
+.picasso {
+
+	border: solid black 1px;
+	background-color: white;
+	height: 500px;
+	width: 500px;
+}
+
+*/
